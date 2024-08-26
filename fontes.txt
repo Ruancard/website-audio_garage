@@ -1,0 +1,2 @@
+Logo = Bree Serif / maiúscula / 42,3
+detalhe logo = Bree Serif / 17,4
