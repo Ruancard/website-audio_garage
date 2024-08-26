@@ -5,6 +5,6 @@ const main = document.querySelector('.main')
 botaoMenu.addEventListener('click', () => {
     menuLateral.classList.toggle('nav--active')
 })
-main.addEventListener('click', () => {
+main.addEventListener('touchstart', () => {
     menuLateral.classList.remove('nav--active')
 })
